@@ -18,5 +18,5 @@ FileWatcher is a simple command-line tool to monitor a specified directory for c
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/filewatcher.git
+   git clone https://github.com/atiqul21/filewatcher.git
    cd filewatcher
